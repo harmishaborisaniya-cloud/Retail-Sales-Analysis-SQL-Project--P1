@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-**Project Title**: Retail Sales Analysis  
-**Level**: Beginner  
+**Project Title**: Retail Sales Analysis   
 **Database**: `retail_db`
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
@@ -19,7 +18,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `p1_retail_db`.
+- **Database Creation**: The project starts by creating a database named `retail_db`.
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
@@ -207,9 +206,9 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## How to Use
 
 1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
-4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+2. **Set Up the Database**: on your workbook create database and table (create DB and table Query in 'sql_query_p1.sql')after in that table import  `Retail sales analysis_utf.csv` 
+3. **Run the Queries**: Use the SQL queries provided in the `sql_query_p1.sql` file to perform your analysis.
+4. **Explore and Modify**: Feel to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
 ## Author - Zero Analyst
 
