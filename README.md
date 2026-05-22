@@ -211,7 +211,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 4. **Explore and Modify**: Feel to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
 ## Dataset File  (.csv)
-<a href="https://github.com/harmishaborisaniya-cloud/swiggy_dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Data_set</a>
+<a href="https://github.com/harmishaborisaniya-cloud/Retail-Sales-Analysis-SQL-Project--P1/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv">Data_set</a>
 
 ## Query File (.sql)
 <a href="https://github.com/harmishaborisaniya-cloud/Retail-Sales-Analysis-SQL-Project--P1/blob/main/sql_query_p1.sql">Data_set</a>
