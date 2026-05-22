@@ -210,11 +210,11 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 3. **Run the Queries**: Use the SQL queries provided in the `sql_query_p1.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
-## Dataset File
+## Dataset File  (.csv)
 <a href="https://github.com/harmishaborisaniya-cloud/swiggy_dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Data_set</a>
 
-## Query File
-<a href="https://github.com/harmishaborisaniya-cloud/swiggy_dashboard/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Data_set</a>
+## Query File (.sql)
+<a href="https://github.com/harmishaborisaniya-cloud/Retail-Sales-Analysis-SQL-Project--P1/blob/main/sql_query_p1.sql">Data_set</a>
 
 ## Author - Zero Analyst
 
